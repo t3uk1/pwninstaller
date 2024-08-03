@@ -1,0 +1,12 @@
+set_temp_gitconfig
+install_peda
+install_Pwngdb
+update_gdbinit
+install_pwndbg
+setup_pwndbg
+install_needs
+iinstall_pwntools
+install_LibcSearcher
+i
+install_one_gadget
+
