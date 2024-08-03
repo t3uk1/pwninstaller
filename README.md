@@ -1,6 +1,6 @@
 # Pwninstaller Demo
 
-This is a script that can install basic pwn environment.
+This is a script that can install basic pwn environment.<br>
 There may be some bugs, please understand :)
 
 ## Install list
@@ -20,9 +20,9 @@ There may be some bugs, please understand :)
 * ropper
 
 ## How to use?
-clone this repo
-```git clone https://github.com/t3uk1/pwninstaller.git```
-then enter ./pwninstaller
-```cd ./pwninstaller```
-run pwninstaller.sh
-```./pwninstaller.sh```
+clone this repo<br>
+```git clone https://github.com/t3uk1/pwninstaller.git```<br>
+then enter ./pwninstaller<br>
+```cd ./pwninstaller```<br>
+run pwninstaller.sh<br>
+```./pwninstaller.sh```<br>
