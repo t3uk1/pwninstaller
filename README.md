@@ -28,7 +28,7 @@ run pwninstaller.sh<br>
 ```./pwninstaller.sh```<br>
 
 ## Others
-这是一个 * demo
-不出意外基本都能一键装上
-pwndbg 可能会clone不下来，如果不行请自行安装(
+这是一个 * demo<br>
+不出意外基本都能一键装上<br>
+~~pwndbg 可能会clone不下来，如果不行请自行安装(~~
 
