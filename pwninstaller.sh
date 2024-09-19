@@ -105,7 +105,7 @@ install_Pwngdb() {
 install_pwndbg() {
     if check_status $FUNCNAME; then return 0; fi
     echo -e "\033[33m[+] cloning pwndbg from github\033[0m"
-    git clone https://gitclone.com/github.com/pwndbg/pwndbg temp_pwndbg
+    git clone https://github.com/pwndbg/pwndbg temp_pwndbg
     rsync -avu -delete ./temp_pwndbg/ ./pwndbg/
     echo "[+] move ./pwndbg to ~/pwndbg"
     rm -rf ~/pwndbg
